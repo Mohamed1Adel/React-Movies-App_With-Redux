@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Movies-App_With-Redux.git/static/css/main.17822b28.css",
+    "main.js": "/React-Movies-App_With-Redux.git/static/js/main.260e94f1.js",
+    "static/media/logo.png": "/React-Movies-App_With-Redux.git/static/media/logo.800ff118d3628e8c8f7f.png",
+    "index.html": "/React-Movies-App_With-Redux.git/index.html",
+    "main.17822b28.css.map": "/React-Movies-App_With-Redux.git/static/css/main.17822b28.css.map",
+    "main.260e94f1.js.map": "/React-Movies-App_With-Redux.git/static/js/main.260e94f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17822b28.css",
+    "static/js/main.260e94f1.js"
+  ]
+}
